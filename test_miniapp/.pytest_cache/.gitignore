@@ -1,0 +1,8 @@
+# IntelliJ project files
+.idea
+*.iml
+*.xml
+allure-results
+logs
+SYDS
+report

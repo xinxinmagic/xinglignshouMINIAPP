@@ -1,0 +1,5 @@
+requests
+pytest
+psycopg2
+allure-pytest
+pytest-html
