@@ -19,17 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c5f5ef9-fee4-40c8-9be5-16f7a6a09005" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/2021_04_29.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_miniapp/test_order_cnfirmPage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/MINIAPP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MINIAPP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/cfg.ini" beforeDir="false" afterPath="$PROJECT_DIR$/config/cfg.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_miniapp/.pytest_cache/v/cache/lastfailed" beforeDir="false" afterPath="$PROJECT_DIR$/test_miniapp/.pytest_cache/v/cache/lastfailed" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_miniapp/.pytest_cache/v/cache/nodeids" beforeDir="false" afterPath="$PROJECT_DIR$/test_miniapp/.pytest_cache/v/cache/nodeids" afterDir="false" />
-    </list>
+    <list default="true" id="4c5f5ef9-fee4-40c8-9be5-16f7a6a09005" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -248,7 +238,16 @@
       <workItem from="1619659737345" duration="10774000" />
       <workItem from="1619686724897" duration="4231000" />
       <workItem from="1619750134343" duration="641000" />
+      <workItem from="1619751106367" duration="306000" />
     </task>
+    <task id="LOCAL-00001" summary="确认订单页测试用例增加">
+      <created>1619751405207</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619751405208</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,7 +267,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="确认订单页测试用例增加" />
+    <option name="LAST_COMMIT_MESSAGE" value="确认订单页测试用例增加" />
   </component>
   <component name="WindowStateProjectService">
     <state x="354" y="119" key="#Inspections" timestamp="1619746803669">
