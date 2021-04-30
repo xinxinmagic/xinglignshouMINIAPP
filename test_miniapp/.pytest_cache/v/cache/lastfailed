@@ -1,6 +1,9 @@
 {
   "test_addaddress.py::test_addaddress[20210104162700-110100-\\u5317\\u4eac\\u5e02-110101-\\u4e1c\\u57ce\\u533a-20210104162700\\u540d-14826598609-110000-\\u5317\\u4eac\\u5e02---False-True]": true,
+  "test_addressdelete.py::test_deleteaddress[100-True]": true,
   "test_commodityinfo.py::test_shopcommodityinfo[1606-9Cc3XaWE-True]": true,
+  "test_order_cnfirmPage.py": true,
+  "test_orderconfirm.py": true,
   "test_orderconfirmpage.py::test_addressgetid[1-1-True]": true,
   "test_orderconfirmpage.py::test_addressgetid[8589-1-True]": true,
   "test_orderconfirmpage.py::test_ordercreate[130-1-2--8810-1-66---0-True]": true,
@@ -11,6 +14,7 @@
   "test_orderconfirmpage.py::test_ordercreate[26-1-66-45--6430-1-66---0-True]": true,
   "test_orderdelete.py::test_orderdelete[202011040835238184685-True]": true,
   "test_rpageinit.py::test_pageinit[err0]": true,
+  "test_shoplanlist.py::test_shopplanList[0-20-253-True]": true,
   "test_uodateaddress.py::test_addaddress[27-20210104164800-110100-\\u5317\\u4eac\\u5e02-110101-\\u4e1c\\u57ce\\u533a-20210104164800\\u540d-15363295421-110000-\\u5317\\u4eac\\u5e02---False-True]": true,
   "test_uodateaddress.py::test_updateaddress[27-20210104165910-110100-\\u5317\\u4eac\\u5e02-110101-\\u4e1c\\u57ce\\u533a-20210104165910\\u540d-15160127723-110000-\\u5317\\u4eac\\u5e02---False-True]": true,
   "test_uodateaddress.py::test_updateaddress[27-20210104165930-110100-\\u5317\\u4eac\\u5e02-110101-\\u4e1c\\u57ce\\u533a-20210104165930\\u540d-17823239088-110000-\\u5317\\u4eac\\u5e02---False-True]": true,

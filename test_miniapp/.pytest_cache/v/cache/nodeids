@@ -60,5 +60,8 @@
   "test_updateDefaultAddress.py::test_updateDefaultAddress[31-True]",
   "test_updatecustomerinfo.py::test_updatecustomeravatar[1-True]",
   "test_updatecustomerinfo.py::test_updatecustomeravatar[https://vipshop-test.oss-cn-shanghai.aliyuncs.com/70d57807-717c-4376-a1b0-8a88c8496187_a7.jpg-True]",
-  "test_updatecustomerinfo.py::test_updatecustomername[zhangxin-True]"
+  "test_updatecustomerinfo.py::test_updatecustomername[zhangxin-True]",
+  "test_addressdelete.py::test_deleteaddress[100-True]",
+  "test_shoplanlist.py::test_shopplanList[0-20-253-True]",
+  "test_order_cnfirmPage.py::test_orderconfirmPage[6430-1]"
 ]

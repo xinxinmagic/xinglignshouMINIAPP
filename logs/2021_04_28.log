@@ -1,0 +1,9 @@
+[2021-04-28 14:54:57,438-logger.py]-DEBUG:{'a': '1', 'p': '6', 'c': '0', 'v': '1.0.0', 't': '1619592897438', 'loginUserId': '52', 'loginToken': '2c597c379933492eb7cac64768dea072', 's': '5#5~^6#r^8r0&%#&e$', 'Content-Type': 'application/x-www-form-urlencoded'}
+[2021-04-28 14:54:57,489-logger.py]-DEBUG:{'errorCode': '40000008', 'msg': '账号异常，请重新登录', 'success': False}
+[2021-04-28 14:54:57,490-logger.py]-DEBUG:返回结果：{'errorCode': '40000008', 'msg': '账号异常，请重新登录', 'success': False}
+[2021-04-28 16:43:23,112-logger.py]-DEBUG:{'a': '1', 'p': '6', 'c': '0', 'v': '1.0.0', 't': '1619599403111', 'loginUserId': '52', 'loginToken': '2c597c379933492eb7cac64768dea072', 's': '~8808!%6s!~&se%rr@', 'Content-Type': 'application/json'}
+[2021-04-28 16:43:23,168-logger.py]-DEBUG:{'errorCode': '40000008', 'msg': '账号异常，请重新登录', 'success': False}
+[2021-04-28 16:43:23,168-logger.py]-DEBUG:返回结果：{'errorCode': '40000008', 'msg': '账号异常，请重新登录', 'success': False}
+[2021-04-28 17:58:44,764-logger.py]-DEBUG:{'a': '1', 'p': '6', 'c': '0', 'v': '1.0.0', 't': '1619603924764', 'loginUserId': '52', 'loginToken': '2c597c379933492eb7cac64768dea072', 's': '~88~%88e~6~^s!%8#!', 'Content-Type': 'application/json'}
+[2021-04-28 17:58:44,815-logger.py]-DEBUG:{'errorCode': '40000008', 'msg': '账号异常，请重新登录', 'success': False}
+[2021-04-28 17:58:44,816-logger.py]-DEBUG:返回结果：{'errorCode': '40000008', 'msg': '账号异常，请重新登录', 'success': False}
